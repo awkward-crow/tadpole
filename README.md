@@ -1,7 +1,7 @@
 # tadpole
 
-A Rust port of [ripser](https://github.com/Ripser/ripser), which computes
-Vietoris-Rips persistence barcodes. 
+A Rust port of [ripser](https://github.com/Ripser/ripser) by Ulrich Bauer, which computes
+Vietoris-Rips persistence barcodes. MIT licensed; see [LICENSE](LICENSE).
 
 ## Build
 
